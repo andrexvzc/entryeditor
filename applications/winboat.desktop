@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=WinBoat
+Exec=/opt/winboat/winboat
+Icon=winboat
+Terminal=false
+Categories=System
+Type=Application
+Comment=Run Windows apps on Linux with seamless integration

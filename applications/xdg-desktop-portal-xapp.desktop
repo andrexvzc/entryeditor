@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Portal
+Icon=xsi-cog-symbolic
+Exec=/usr/lib/xdg-desktop-portal-xapp
+NoDisplay=true

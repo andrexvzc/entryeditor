@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Pycharm Light Edit
+Icon=pycharm
+Exec=/usr/bin/ltedit %f
+MimeType=text/x-python;application/x-ipynb+json
+NoDisplay=true
+Terminal=false
+StartupNotify=true

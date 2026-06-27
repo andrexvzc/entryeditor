@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Limine-snapper-restore
+Comment=Restore a selected system snapshot.
+Icon=LimineSnapperSync
+Exec=limine-snapper-restore
+Terminal=false
+Type=Application
+Categories=Utility

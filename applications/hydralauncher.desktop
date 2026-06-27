@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Hydra
+Exec=/opt/Hydra/hydralauncher %U
+Terminal=false
+Type=Application
+Icon=hydralauncher
+StartupWMClass=Hydra
+Comment=Hydra
+MimeType=x-scheme-handler/hydralauncher;
+Categories=Game;

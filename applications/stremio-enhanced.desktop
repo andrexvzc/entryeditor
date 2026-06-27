@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Stremio Enhanced
+Exec=stremio-enhanced %U
+Terminal=false
+Type=Application
+Icon=stremio-enhanced
+StartupWMClass=stremio-enhanced
+X-AppImage-Version=1.1.5
+Comment=Electron-based Stremio client with plugins and themes support.
+Categories=Utility;

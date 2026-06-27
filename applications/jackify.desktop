@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Jackify
+Comment=Linux-native Wabbajack modlist installer
+Exec=jackify
+Icon=com.jackify.app
+Type=Application
+Categories=Game;Utility;
+Terminal=true
